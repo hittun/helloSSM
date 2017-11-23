@@ -949,8 +949,12 @@ index.html
 
 ### IDEA 通过 git 把项目上传到 gitHub
 
-#### 1. 配置 git
-
 本地安装好git，并配置合理的SSH key
 
 IntelliJ IDEA->Performance->Version Control->git 将自己安装git的可执行文件路径填入Path to Git executable
+
+选择CVS 找到 Share Project 输入账号密码即可.
+
+本例子gitHub 地址: https://github.com/hittun/helloSSM/tree/master
+
+不负责任声明: 本例子只用于学习. 
