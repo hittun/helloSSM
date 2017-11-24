@@ -1,7 +1,7 @@
 
 ## 该分支用于测试mybatis 功能
 
-### 一对多
+### (1) 一对多
 
 #### 1. 创建数据库表
 ```sql
@@ -40,3 +40,8 @@ insert  into `post`(`post_id`,`userid`,`title`,`content`,`createdtime`) values (
 
 #### 2. 创建表对应的 JavaBean 对象
 
+它们分别是： User.java 和 Post.java
+其中Post.java 类的代码如下：
+```java
+
+```
