@@ -1,1 +1,1 @@
-this is a file A
+this is a file B
